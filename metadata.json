@@ -1,0 +1,6 @@
+{
+  "name": "NexaDev - Web Developer Portfolio",
+  "description": "Portofolio resmi NexaDev: Belajar membuat website, script PHP, Node.js, bot otomatis, dan web tools online.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
